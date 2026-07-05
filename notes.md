@@ -1,5 +1,7 @@
 方案paper：https://dl.acm.org/doi/pdf/10.1145/3701716.3718371
 
+方案解读：https://zhuanlan.zhihu.com/p/1890440812162163473
+
 # 1. 数据集下载
 目前无法从官网下载数据集，可以从modelscope 下载：https://www.modelscope.cn/datasets/smau0441/www2025-train
 
