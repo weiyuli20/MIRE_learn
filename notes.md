@@ -1,3 +1,5 @@
+方案paper：https://dl.acm.org/doi/pdf/10.1145/3701716.3718371
+
 # 1. 数据集下载
 目前无法从官网下载数据集，可以从modelscope 下载：https://www.modelscope.cn/datasets/smau0441/www2025-train
 
@@ -56,6 +58,11 @@ total labels:46种-{'气泡', '是否好用', '是否会生锈', '退款页面',
 
 
 # 5. 划分数据集9:1 跑基线训练和测试
+
+
+
+
+
 
 
 
